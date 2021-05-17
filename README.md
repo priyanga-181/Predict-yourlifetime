@@ -6,7 +6,7 @@ I was reading this article by Tim Urban - Your Life in Weeks and realised just h
 
 [https://waitbutwhy.com/2014/05/life-weeks.html](https://waitbutwhy.com/2014/05/life-weeks.html)
 
-Create a program using maths and f-Strings that tells us how many days, weeks, months we have left if we live until 90 years old. 
+Create a program using maths and f-Strings that tells us how many days, weeks, months we have left untill you wish to die
 
 It will take your current age as the input and output a message with our time left in this format:
 
